@@ -1134,7 +1134,7 @@ html {
   flex-direction: column;
   justify-content: center;
   text-align: center;
-  background-color: #FFF;
+/*   background-color: #FFF; */
   padding:  40px 0px;
   width: 240px;
 }
