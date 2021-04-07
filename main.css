@@ -1127,7 +1127,8 @@ html {
 
 
 
-.container {
+
+.containerbtn {
   align-items: center;
   display: flex;
   flex-direction: column;
@@ -1142,7 +1143,7 @@ html {
 
 
 
-.btn {
+.btne {
   border-radius: 3.5px;
   letter-spacing: 0.1em;
   cursor: pointer;
@@ -1155,7 +1156,7 @@ html {
   text-transform: uppercase;
   width: 100%;
 }
-.btn:hover {
+.btne:hover {
   text-decoration: none;
 }
 
@@ -1209,8 +1210,6 @@ html {
   -webkit-transform: rotate(40deg);
           transform: rotate(40deg);
 }
-
-
 
 
 /* Button addendum code*/
