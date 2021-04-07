@@ -1142,15 +1142,14 @@ html {
 
 
 
-
 .btne {
   border-radius: 3.5px;
   letter-spacing: 0.1em;
   cursor: pointer;
-  font-size: 14px;
+  font-size: 20px;
   font-weight: 500;
-  line-height: 45px;
-  max-width: 160px;
+  line-height: 60px;
+  max-width: 250px;
   position: relative;
   text-decoration: none;
   text-transform: uppercase;
