@@ -197,7 +197,7 @@ li{
 }
 
 .menu-toggler{
-    position : absolute;
+    position : fixed;
     top : 5rem;
     right : 5rem;
     width : 5rem;
@@ -866,6 +866,7 @@ position : relative;
       }
 
     .menu-toggler{
+        position:absolute;
         top : 2rem;
         right : 2rem;
     }
