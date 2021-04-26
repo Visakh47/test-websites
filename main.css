@@ -425,7 +425,7 @@ li{
     align-items:center;
     justify-content: center;
     margin-bottom: 5rem ;
-    font-family: 'Poiret One', cursive;
+    /* font-family: 'Poiret One', cursive; */
 }
 
 .porfolio .cv {
